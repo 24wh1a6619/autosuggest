@@ -62,3 +62,7 @@ body{
 .card button{
     margin-bottom: 10px;
 }
+
+.pill{
+    text-align: right;
+}
