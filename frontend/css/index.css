@@ -40,3 +40,17 @@ h1 {
 body{
     margin: 0px;
 }
+
+.card{
+    width: 200px;
+    border: 1px solid #ccc;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    margin-right: 20px;
+    text-align: center;
+}
+
+.card img{
+    width: 200px;
+}
