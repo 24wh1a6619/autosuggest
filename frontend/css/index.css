@@ -39,6 +39,7 @@ h1 {
 
 body{
     margin: 0px;
+    padding: 0px
 }
 
 .card{
@@ -53,4 +54,11 @@ body{
 
 .card img{
     width: 200px;
+    display: block;
+    margin: auto;
+
+}
+
+.card button{
+    margin-bottom: 10px;
 }
