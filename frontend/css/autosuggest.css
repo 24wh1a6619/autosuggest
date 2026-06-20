@@ -13,3 +13,26 @@
 .content{
     text-align: center;
 }
+
+
+.logo{
+    color: rgb(0, 123, 255);
+}
+
+
+.lens{
+    position: relative;
+    left: 30px;
+}
+
+
+input{
+    border-radius: 20px;
+    padding-left: 30px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 300px;
+    border-color: gold;
+}
+
