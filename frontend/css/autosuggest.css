@@ -1,38 +1,48 @@
-.gear{
-    position:fixed;
-    top:10px;
-    left: 10px;
-}
-
-.pill{
-    position:fixed;
+.gear {
+    position: absolute;
     top: 10px;
-    right:10px
+    left: 10px;
+    font-size: 25px;
 }
 
-.content{
+.pill {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    font-size: 18px;
+
+
+}
+
+.maincontent {
     text-align: center;
+    margin-top: 80px;
+    font-size: larger;
 }
 
-
-.logo{
-    color: rgb(0, 123, 255);
+.logo {
+    color: rgb(96, 166, 240);
 }
 
-
-.lens{
+.lens {
     position: relative;
-    left: 30px;
+    left: 40px;
 }
 
 
-input{
+
+
+input {
     border-radius: 20px;
-    padding-left: 30px;
+    padding-left: 35px;
     padding-right: 10px;
     padding-top: 10px;
     padding-bottom: 10px;
-    width: 300px;
-    border-color: gold;
-}
+    width: 500px;
+    border-color: rgb(96, 166, 240);
+    box-shadow: 10px 18px 30px rgba(96, 166, 240, 0.2);
+    /* height: 200px; */
 
+
+
+}
